@@ -24,7 +24,7 @@ export class MidjourneyApi {
         this.config = {
             serverId: <string>process.env.MJ_SERVER_ID || '998196496736469023',
             channelId: <string>process.env.MJ_CHANNEL_ID || '1174629478320840744',
-            token: <string>process.env.MJ_USER_TOKEN || 'OTk4MTk1NTU4NDc0ODQyMTk1.GXDq-l.3Yx6TBPk8E2gmi_IXpLEJXgz6xk2Enm0v-Rz5g',
+            token: <string>process.env.MJ_USER_TOKEN || 'OTk4MTk1NTU4NDc0ODQyMTk1.GQr2em.xpeEW31DssNAFvy7QyVtFrhacIDgdu9IbbQ0Ww',
             discordProxy: <string>process.env.MJ_DISCORD_PROXY || 'https://discord.com',
             discordWssProxy: <string>process.env.MJ_DISCORD_WSS_PROXY || 'wss://gateway.discord.gg',
             discordCdnProxy: <string>process.env.MJ_DISCORD_CDN_PROXY || 'https://cdn.discordapp.com',
